@@ -77,11 +77,11 @@ const frontend: ISkill.Skill = {
     },
     {
       title: 'Javascript',
-      level: 2,
+      level: 3,
     },
     {
       title: 'HTML/CSS',
-      level: 2,
+      level: 3,
     },
     {
       title: 'bootstrap',
