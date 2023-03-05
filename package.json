@@ -18,7 +18,7 @@
     "lint": "eslint \"component/**/*\" \"pages/**/*\" \"payload/**/*\" \"*.ts\" --fix",
     "typedoc": "typedoc --excludeExternals"
   },
-  "homepage": "https://heyjyu.github.io/resume",
+  "homepage": "https://heyjyu.github.io/resume/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/heyjyu/resume.git"
