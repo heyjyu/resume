@@ -4,15 +4,15 @@ const experience: IExperience.Payload = {
   disable: false,
   disableTotalPeriod: false,
   list: [
-    {
-      title: '코드숨',
-      position:
-        '(프리랜서) 리뷰어로서 `코드숨 리액트편` 수강생의 코드를 리뷰하여 프론트엔드에서 TDD를 할 수 있도록 돕는 역할을 하였습니다.',
-      startedAt: '2022-07',
-      endedAt: '2022-10',
-      descriptions: ['수강생의 질문에 대한 답변', '수강생 코드에 대한 리뷰'],
-      skillKeywords: ['React.js', 'Jest', 'Git'],
-    },
+    // {
+    //   title: '코드숨',
+    //   position:
+    //     '(프리랜서) 리뷰어로서 `코드숨 리액트편` 수강생의 코드를 리뷰하여 프론트엔드에서 TDD를 할 수 있도록 돕는 역할을 하였습니다.',
+    //   startedAt: '2022-07',
+    //   endedAt: '2022-10',
+    //   descriptions: ['수강생의 질문에 대한 답변', '수강생 코드에 대한 리뷰'],
+    //   skillKeywords: ['React.js', 'Jest', 'Git'],
+    // },
     {
       title: '어노테이션 에이아이',
       position:
@@ -20,7 +20,7 @@ const experience: IExperience.Payload = {
       startedAt: '2021-12',
       endedAt: '2022-07',
       descriptions: [
-        '어노테이션 툴 `어노위즈` 프론트엔드 개발',
+        '어노테이션 툴 `어노위즈` 프론트엔드 개발 (디자인 시스템 개발, UI 컴포넌트 개발 및 적용, 오브젝트 숨기기, 오브젝트 속성 입력, 오브젝트 삭제, 프레임 이동, 프레임 상태 변경 등)',
         '어노테이션 툴 `어노위즈` 프론트엔드 배포',
         '코드 리뷰를 통해 오타 및 버그 수십 건 정정',
         'E2E 테스트 작성',
@@ -42,7 +42,7 @@ const experience: IExperience.Payload = {
     },
     {
       title: '엠오디티비',
-      position: '인턴으로 입사하여 다양한 업무를 배우고 담당하였습니다.',
+      position: '인턴으로 입사하여 QA를 담당하고 유지 및 하자 보수도 담당하였습니다.',
       startedAt: '2021-06',
       endedAt: '2021-09',
       descriptions: [
